@@ -1,0 +1,6 @@
+projectKey=barkparks-back
+serverUrl=http://localhost:9000
+serverVersion=9.1.0.47736
+dashboardUrl=http://localhost:9000/dashboard?id=barkparks-back
+ceTaskId=AX293HhQqOr2aAMSJskv
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AX293HhQqOr2aAMSJskv
